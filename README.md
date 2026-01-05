@@ -50,6 +50,12 @@ This ensures secure, modular, and efficient data handling.
 
 ---
 
+## 🌐 Servlet Integration (Review 2)
+A Java Servlet (`LoginServlet.java`) is implemented to demonstrate server-side processing.  
+The servlet performs login validation using JDBC and interacts with the same MySQL database used by the GUI application.  
+This shows proper separation between client-side (Swing) and server-side (Servlet) components.
+
+
 ## 🔧 Functional Modules  
 ### **Admin Module**
 - Manage users  
@@ -76,9 +82,9 @@ This ensures secure, modular, and efficient data handling.
 ---
 
 ## ✔️ Conclusion  
-This project implements a functional language learning system using Java Swing and MySQL. By applying OOP concepts, JDBC, collections, and multithreading, it delivers a clean and user-friendly platform for lesson management and progress tracking.
-
+CodeLingo successfully demonstrates a Java GUI-based language learning platform using Swing and MySQL with JDBC integration. The project applies core Object-Oriented Programming concepts, collections, and multithreading to deliver role-based functionality for Admins, Instructors, and Learners. For Review 2, a Java Servlet is integrated to showcase server-side processing and backend validation, ensuring proper separation between client and server components. Overall, the project meets all review requirements with a clean, modular, and scalable design.
 ---
 
 ## 📂 Project Structure  
+
 
